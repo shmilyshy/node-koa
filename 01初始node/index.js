@@ -1,1 +1,1 @@
-console.log("koa")
+console.log("koa");
